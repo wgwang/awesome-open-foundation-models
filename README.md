@@ -49,7 +49,7 @@ Awesome family related to LLMS includes:
 |15|Pythia|2.8B,6.9B,12B|300B||
 |16|XGen|7B|1.5T||
 |17|OPT|6.7B,13B,30B,66B,175B|180B||
-|18|[Qwen](Open-LLMs/qwen.md)|7B,14B|2.4T,3.0T||
+|18|[Qwen](Open-LLMs/qwen.md)|7B,14B,72B|2.4T,3.0T,3.0T||
 |19|XVERSE|13B,65B|1.4T,2.6T||
 |20|[Aquila2](https://github.com/FlagAI-Open/Aquila2)|7B,34B|2T||
 |21|Prithvi|||IBM+NASA,地理空间，100M（图片）|
@@ -59,6 +59,7 @@ Awesome family related to LLMS includes:
 |25|Yi|6B,34B|3T||
 |26|Mistral|7B||欧洲|
 |27|Yuan-2|2B,51B,102B|||
+|28|Mistral 7BX8 MoE|56B||7BX8 MoE|
 
 ## 非基础大模型
 - WizardLM，WizardMath，WizardCoder
@@ -75,4 +76,23 @@ Awesome family related to LLMS includes:
 - [GPTQ](https://github.com/IST-DASLab/gptq)
 - [LLaMA](https://github.com/facebookresearch/llama)
 
+
+
+# 微信公众号：走向未来
+
+欢迎扫码关注微信公众：**走向未来**，公众号专注于分享AGI、大模型、知识图谱、深度学习、强化学习等技术、系统架构、应用场景和案例等内容。
+
+![](imgs/the-land-of-future.jpeg)  
+
+
+# 珠峰书
+
+珠峰书《知识图谱：认知智能理论与实战》一书全面介绍了知识图谱的构建技术、存储技术和应用技术、Transformer、图神经网络等内容，欢迎购买。具体来说，包括：
+- 知识图谱模式设计、知识抽取、图数据库、知识计算、知识推理、知识问答、知识推荐等全方面的内容
+- 详细介绍了Transformer模型细节和实现方法，是大模型的基础技术
+- 国内首本提到向量数据库的书籍
+- 简要介绍了多模态知识融合的内容，书中以“月亮”为例，提出应当把图片的月亮、各种不同语言的文本月亮和和月亮的读音等，都应当融合到同一个知识点中。这正是多模态大模型所做的。
+- 其他一些关于神经科学、脑科学和哲学中对智能的思考
+  
+![](imgs/kgbook.png)
 
