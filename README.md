@@ -58,8 +58,14 @@ Awesome family related to LLMS includes:
 |24|Aquila|7B||悟道·天鹰|
 |25|Yi|6B,34B|3T||
 |26|Mistral|7B||欧洲|
-|27|Yuan-2|2B,51B,102B|||
+|27|Yuan-2|2B,51B,102B||源|
 |28|Mistral 7BX8 MoE|56B||7BX8 MoE|
+|29|BlueLM|7B|2.6T|https://github.com/vivo-ai-lab/BlueLM|
+|30|YAYI 2|30B|2.65T|https://github.com/wenge-research/YAYI2|
+|31|CodeShell|7B|0.5T|https://github.com/WisdomShell/codeshell|
+
+
+
 
 ## 非基础大模型
 - WizardLM，WizardMath，WizardCoder
@@ -94,5 +100,5 @@ Awesome family related to LLMS includes:
 - 简要介绍了多模态知识融合的内容，书中以“月亮”为例，提出应当把图片的月亮、各种不同语言的文本月亮和和月亮的读音等，都应当融合到同一个知识点中。这正是多模态大模型所做的。
 - 其他一些关于神经科学、脑科学和哲学中对智能的思考
   
-![](imgs/kgbook.png)
+![](imgs/kgbook.jpg)
 
