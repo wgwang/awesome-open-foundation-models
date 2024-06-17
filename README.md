@@ -86,7 +86,9 @@ Awesome family related to LLMS includes:
 |43|[Arctic](https://github.com/Snowflake-Labs/snowflake-arctic)|480B|3.5T|2024-04-22|Dense(10B)-MoE(128X3.66B), 17B/480B，3阶段训练，1T+1.5T+1T tokens|
 |44|[Grok-1](https://github.com/xai-org/grok-1)|314B||2024-03-17|MoE 8 Expert| 
 |45|[InternLM2](https://github.com/InternLM/InternLM)|7B,20B|2.3T|2023-09-18|
-|46|[stableLM-2]|12B|2T|2024-03-21||
+|46|[stableLM-2]()|12B|2T|2024-03-21||
+|47|[Nemotron-4]()|340B|9T|2024-06-14||
+|48|Qwen-2|0.5B,1.5B,7B,57B,72B|7T|2024-05-23|57B是个MOE，64E选8的模型|
 
 
 
