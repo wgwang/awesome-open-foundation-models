@@ -81,7 +81,7 @@ Awesome family related to LLMS includes:
 |38|[Yi-1.5](https://github.com/01-ai/Yi-1.5)|6B,9B,34B|3.5T|2024-05-13|零一万物，在Yi之上用了500B 语料增量训练得到|
 |39|Yi-VL|6B,34B||2024-01-18|Clip ViT-H/14+Yi-6/34B-Chat,100M图文对|
 |40|[Hunyuan-DiT](https://github.com/Tencent/HunyuanDiT)|1.5B||2024-05-13|腾讯混元文生图|
-|41|[Command-R]()|35B,104B|1.5T|2024-04-03|Focus RAG|
+|41|[Command-R+]()|104B|4T|2024-04-03|Focus RAG|
 |42|Mistral 8X22B|141B||2024-4-17|8X22B MOE, 39B/141B|
 |43|[Arctic](https://github.com/Snowflake-Labs/snowflake-arctic)|480B|3.5T|2024-04-22|Dense(10B)-MoE(128X3.66B), 17B/480B，3阶段训练，1T+1.5T+1T tokens|
 |44|[Grok-1](https://github.com/xai-org/grok-1)|314B||2024-03-17|MoE 8 Expert| 
@@ -89,6 +89,7 @@ Awesome family related to LLMS includes:
 |46|[stableLM-2]()|12B|2T|2024-03-21||
 |47|[Nemotron-4]()|340B|9T|2024-06-14||
 |48|Qwen-2|0.5B,1.5B,7B,57B,72B|7T|2024-05-23|57B是个MOE，64E选8的模型|
+|49|Skywork-MoE|146B||2024-06-03|16EX13B，A:22B|
 
 
 
