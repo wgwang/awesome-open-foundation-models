@@ -4,7 +4,7 @@ Llama 原始的意思是“美洲驼【A llama is a South American animal with t
 
 Meta 开发并“开放”的LLaMA大模型，是ChatGPT 出现之后第一个真正意义上的大语言模型，与此前的OPT、GALACTICA、BLOOM等大语言模型有了较大进步。
 
-LLaMA是一个基础模型，可以针对各种任务进行微调，如文本生成、问答、摘要等。也是在 LLaMA 发布之后，开源大语言模型才有了长足的进展，各种 SFT、RLHF 以及基于 LLaMA 的LoRA 等大量出现。也正是基于LLaMA，才有了一大批农场中的动物系列模型出现。
+LLaMA，发布与2023-02-24，是一个基础模型，可以针对各种任务进行微调，如文本生成、问答、摘要等。也是在 LLaMA 发布之后，开源大语言模型才有了长足的进展，各种 SFT、RLHF 以及基于 LLaMA 的LoRA 等大量出现。也正是基于LLaMA，才有了一大批农场中的动物系列模型出现。
 
 Meta在论文中表示，LLaMA 13B在大多数基准测试中都优于OpenAI流行的GPT-3模型，而LLaMA 65B与DeepMind的Chinchilla70B和谷歌的PaLM 540B等最好的模型有的一比。这其实得益于 Meta 用了比之前那些模型更多的语料来训练LLaMA。
 
@@ -12,6 +12,7 @@ Meta在论文中表示，LLaMA 13B在大多数基准测试中都优于OpenAI流�
 ## 基础信息
 
 - 由Meta AI的FAIR团队开发
+- 发布时间：2023-02-24
 - LLaMA是在2022年12月份到2023年2月份之间训练的
 - LLaMA是一种基于变换器网络（Transformer）架构的自回归语言模型。该模型有不同的参数规模：7B、13B、33B(通常称30B) 和 65B 参数
 - 许可：非商业定制许可证

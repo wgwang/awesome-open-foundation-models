@@ -47,7 +47,7 @@ Awesome family related to LLMS includes:
 |4|[InternLM](Open-LLMs/internlm.md)|7B,20B|2.3T||开放，商用需授权|
 |5|[BLOOM](Open-LLMs/bloom.md)|3B,7.1B,176B|366B||[详细介绍](https://mp.weixin.qq.com/s/ia-yrmXbnlooRA3K1hoTwQ)|
 |6|GALACTICA|6.7B,30B,120B|106B||开放的科学文本和数据|
-|7|[LLaMA](Open-LLMs/llama.md)|7B,13B,30B,65B|1.4T||[详细介绍](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)|
+|7|[LLaMA](Open-LLMs/llama.md)|7B,13B,30B,65B|1.4T|2023-02-24|[详细介绍](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)|
 |8|MOSS-moon|16B|700B||6.67x1022 FLOPs|
 |9|[ChatGLM3](https://github.com/THUDM/ChatGLM3)|6B|1.4T|2023-10-25|
 |10|StableLM|3B,7B|800B||
@@ -73,7 +73,7 @@ Awesome family related to LLMS includes:
 |30|YAYI 2|30B|2.65T|2023-12-15|https://github.com/wenge-research/YAYI2|
 |31|CodeShell|7B|0.5T|2023-09-22|https://github.com/WisdomShell/codeshell|
 |32|[DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2)|236B|8.1T|2024-05-06|MoE 21B/236B，160Experts，2Activate|
-|33|[LLaMA-3](https://ai.meta.com/blog/meta-llama-3/)| 8B,70B |15T| 2024-04-18||
+|33|[LLaMA-3](./Open-LLMs/llama3.md)| 8B,70B |15T| 2024-04-18||
 |34|[QWen-1.5](https://github.com/QwenLM/Qwen1.5)|0.5B,1.8B,4B,7B,14B,32B,72B|2.4T,2.4T,2.4T,4T,4T,3T,3T|2024-02-06||
 |35|[QWen-1.5-110B](https://github.com/QwenLM/Qwen1.5)|110B|2.2T|2024-04-24||
 |36|[DBRX](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)|132B|12T|2024-03-27|MOE 36B/132B, 4/16experts|
