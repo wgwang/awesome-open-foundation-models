@@ -88,7 +88,7 @@ Awesome family related to LLMS includes:
 |45|[InternLM2](https://github.com/InternLM/InternLM)|7B,20B|2.3T|2023-09-18|
 |46|[stableLM-2]()|12B|2T|2024-03-21||
 |47|[Nemotron-4]()|340B|9T|2024-06-14||
-|48|Qwen-2|0.5B,1.5B,7B,57B,72B|7T|2024-05-23|57B是个MOE，64E选8的模型|
+|48|[Qwen-2](./Open-LLMs/qwen2.md)|0.5B,1.5B,7B,57B,72B|7T|2024-05-23|57B是个MOE，64E选8的模型|
 |49|Skywork-MoE|146B||2024-06-03|16EX13B，A:22B|
 
 
