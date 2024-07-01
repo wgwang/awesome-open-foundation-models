@@ -47,7 +47,7 @@ Awesome family related to LLMS includes:
 |4|[InternLM](Open-LLMs/internlm.md)|7B,20B|2.3T||开放，商用需授权|
 |5|[BLOOM](Open-LLMs/bloom.md)|3B,7.1B,176B|366B||[详细介绍](https://mp.weixin.qq.com/s/ia-yrmXbnlooRA3K1hoTwQ)|
 |6|GALACTICA|6.7B,30B,120B|106B||开放的科学文本和数据|
-|7|[LLaMA](Open-LLMs/llama.md)|7B,13B,30B,65B|1.4T|2023-02-24|[详细介绍](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)|
+|7|[LLaMA-1](Open-LLMs/llama.md)|7B,13B,30B,65B|1.4T|2023-02-24|[详细介绍](https://mp.weixin.qq.com/s/dKInMi6P80GXecUtR3WQsA)|
 |8|MOSS-moon|16B|700B||6.67x1022 FLOPs|
 |9|[ChatGLM3](https://github.com/THUDM/ChatGLM3)|6B|1.4T|2023-10-25|
 |10|StableLM|3B,7B|800B||
@@ -58,7 +58,7 @@ Awesome family related to LLMS includes:
 |15|Pythia|2.8B,6.9B,12B|300B|||
 |16|XGen|7B|1.5T|||
 |17|OPT|6.7B,13B,30B,66B,175B|180B|||
-|18|[Qwen](Open-LLMs/qwen.md)|7B,14B,72B|2.4T,3.0T,3.0T|||
+|18|[Qwen-1](Open-LLMs/qwen.md)|7B,14B,72B|2.4T,3.0T,3.0T|||
 |19|XVERSE|13B,65B|1.4T,2.6T|||
 |20|[Aquila2](https://github.com/FlagAI-Open/Aquila2)|7B,34B|2T|||
 |21|Prithvi||||IBM+NASA,地理空间，100M（图片）|
@@ -82,7 +82,7 @@ Awesome family related to LLMS includes:
 |39|Yi-VL|6B,34B||2024-01-18|Clip ViT-H/14+Yi-6/34B-Chat,100M图文对|
 |40|[Hunyuan-DiT](https://github.com/Tencent/HunyuanDiT)|1.5B||2024-05-13|腾讯混元文生图|
 |41|[Command-R+]()|104B|4T|2024-04-03|Focus RAG|
-|42|Mistral 8X22B|141B||2024-4-17|8X22B MOE, 39B/141B|
+|42|Mistral-8X22B|141B||2024-4-17|8X22B MOE, 39B/141B|
 |43|[Arctic](https://github.com/Snowflake-Labs/snowflake-arctic)|480B|3.5T|2024-04-22|Dense(10B)-MoE(128X3.66B), 17B/480B，3阶段训练，1T+1.5T+1T tokens|
 |44|[Grok-1](https://github.com/xai-org/grok-1)|314B||2024-03-17|MoE 8 Expert| 
 |45|[InternLM2](https://github.com/InternLM/InternLM)|7B,20B|2.3T|2023-09-18|
@@ -90,6 +90,7 @@ Awesome family related to LLMS includes:
 |47|[Nemotron-4]()|340B|9T|2024-06-14||
 |48|[Qwen-2](./Open-LLMs/qwen2.md)|0.5B,1.5B,7B,57B,72B|7T|2024-05-23|57B是个MOE，64E选8的模型|
 |49|Skywork-MoE|146B||2024-06-03|16EX13B，A:22B|
+|50|Gemma-2|9B,27B|8T,13T|2024-06-27||
 
 
 
